@@ -1,0 +1,9 @@
+.header {
+   width: 100%;
+   margin: auto;
+}
+
+.email {
+   text-align: right;
+   display: block;
+}

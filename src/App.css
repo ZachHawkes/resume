@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  width: 55%;
+  margin: auto;
+  padding: 20px;
+  background-color: white;
+}
+.body {
+  background-color: blue;
 }
 
 .App-logo {
@@ -19,4 +26,43 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.tabIn {
+  padding-left: 15%
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.flexboxContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
+.leftColumn {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  width: 50%;
+}
+
+.rightColumn {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  text-align: end;
+}
+
+.sectionTitle {
+  display: block;
+  margin-top: 5%;
+  text-align: left;
+}
+
+.skills {
+  margin-left: 3px;
+  margin-right: 3px;
 }
