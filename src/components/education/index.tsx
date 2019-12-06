@@ -11,7 +11,7 @@ export const Education: React.FC = () =>{
          </div>
          <div className="rightColumn">
             <span>Logan, UT</span>
-            <span>May, 2020</span>
+            <span>May, 2021</span>
          </div>
       </div>
    )
